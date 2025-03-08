@@ -4,7 +4,7 @@
 
 ![Easy peasy](https://user-images.githubusercontent.com/1592663/79918184-93bca100-8434-11ea-9902-0ff726a864a3.gif)
 
-## What is in the box
+## What is in the box?
 
 * API-only django (checkout [this post](https://t.me/pmdaily/257) in Russian) based on Django REST Framework with JWT support.
 * [poetry](https://python-poetry.org) with separate development-time dependencies.
